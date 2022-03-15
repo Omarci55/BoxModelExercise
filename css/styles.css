@@ -1,10 +1,11 @@
 * {
-   /*  margin: 0; */
-   /*  padding: 0;  */
-/*     box-sizing: border-box; */
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
 }
 
 body {
+    margin: 15px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: #cef1ef;
     color: #733D29;
